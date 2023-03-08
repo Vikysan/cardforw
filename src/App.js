@@ -1,23 +1,37 @@
-import logo from './logo.svg';
+import data from './data/person.json'
+import Card from './card';
 import './App.css';
+import './normalize.css';
+import './skeleton.css';
+import { useState,useEffect} from 'react';
+
+
 
 function App() {
+  const [currentWord,setCurrentWord] = useState(data[0])
+  const [english,setEnglish] = useState(true);
+  const [show,setShow] = useState (false)
+
+  const handleNewWord = ()=>{
+    const randomWordNumber = Math.floor(Math.random() * data.length)
+    setCurrentWord(data[randomWordNumber])
+    setShow(false)
+  }
+
+  useEffect(() => {
+    handleNewWord()
+  },[]);
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Card
+      english = {english}
+      word = {currentWord}
+      show = {show}/>
+    
+  <button onClick={()=>setEnglish(prev=>!prev)}>{english ? 'EN' : 'CZ'}</button>
+  <button onClick={()=>setShow(prev=>!prev)}>{!show ? 'Show' : 'Hide'}</button>
+  <button onClick={handleNewWord}>Next</button>
     </div>
   );
 }
