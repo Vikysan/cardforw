@@ -24,6 +24,9 @@ function App() {
 
   return (
     <div className="App">
+      <div className='container' style={{ position: 'absolute', left: '50%', top: '50%',
+      transform: 'translate(-50%, -50%)'}}> 
+
       <Card
       english = {english}
       word = {currentWord}
@@ -32,6 +35,7 @@ function App() {
   <button onClick={()=>setEnglish(prev=>!prev)}>{english ? 'EN' : 'CZ'}</button>
   <button onClick={()=>setShow(prev=>!prev)}>{!show ? 'Show' : 'Hide'}</button>
   <button onClick={handleNewWord}>Next</button>
+      </div>
     </div>
   );
 }
