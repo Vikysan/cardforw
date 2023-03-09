@@ -21,7 +21,7 @@ const Select = (props) => {
 
   return (
     <div>
-      <select name="File" id="File" onChange={onChange} value={currentFile}>
+      <select name="File" id="File" onChange={onChange}>
         {[...files].map(item=><option value={item}>{item}</option>)}
         </select>
         <select name="Topic" id="Topic" onChange={onChangeTopics}>
