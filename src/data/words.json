@@ -1,0 +1,2256 @@
+[
+  {
+    "word": "aubergine",
+    "pronunciation": "/ˈəʊbəʒiːn/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "lilek"
+  },
+  {
+    "word": "avocado",
+    "pronunciation": "/ˌævəˈkɑːdəʊ/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "avokádo"
+  },
+  {
+    "word": "baked",
+    "pronunciation": "/beɪkt/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "pečené"
+  },
+  {
+    "word": "beans",
+    "pronunciation": "/biːnz/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "fazole"
+  },
+  {
+    "word": "beef",
+    "pronunciation": "/biːf/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "hovězí maso"
+  },
+  {
+    "word": "beetroot",
+    "pronunciation": "/ˈbiːtruːt/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "červená řepa"
+  },
+  {
+    "word": "boiled",
+    "pronunciation": "/bɔɪld/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "vařené"
+  },
+  {
+    "word": "cabbage",
+    "pronunciation": "/ˈkæbɪdʒ/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "zelí"
+  },
+  {
+    "word": "cherries",
+    "pronunciation": "/ˈtʃeriːz/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "třešně"
+  },
+  {
+    "word": "chicken",
+    "pronunciation": "/ˈtʃɪkɪn/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "kuře"
+  },
+  {
+    "word": "courgette",
+    "pronunciation": "/kɔːˈʒet/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "cuketa"
+  },
+  {
+    "word": "crab",
+    "pronunciation": "/kræb/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "krab"
+  },
+  {
+    "word": "cucumber",
+    "pronunciation": "/ˈkjuːkʌmbə/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "okurka"
+  },
+  {
+    "word": "duck",
+    "pronunciation": "/dʌk/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "kachna"
+  },
+  {
+    "word": "egg",
+    "pronunciation": "/eɡ/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "vejce"
+  },
+  {
+    "word": "fish",
+    "pronunciation": "/fɪʃ/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "ryba"
+  },
+  {
+    "word": "fried",
+    "pronunciation": "/fraɪd/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "smažené"
+  },
+  {
+    "word": "fruit",
+    "pronunciation": "/fruːt/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "ovoce"
+  },
+  {
+    "word": "grapes",
+    "pronunciation": "/ɡreɪps/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "hrozny"
+  },
+  {
+    "word": "grilled",
+    "pronunciation": "/ɡrɪld/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "grilované"
+  },
+  {
+    "word": "lamb",
+    "pronunciation": "/læm/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "jehněčí"
+  },
+  {
+    "word": "lemon",
+    "pronunciation": "/ˈlemən/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "citron"
+  },
+  {
+    "word": "lobster",
+    "pronunciation": "/ˈlɒbstə(r)/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "humr"
+  },
+  {
+    "word": "mango",
+    "pronunciation": "/ˈmæŋɡəʊ/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "mango"
+  },
+  {
+    "word": "meat",
+    "pronunciation": "/miːt/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "maso"
+  },
+  {
+    "word": "melon",
+    "pronunciation": "/ˈmelən/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": " meloun"
+  },
+  {
+    "word": "mussels",
+    "pronunciation": "/ˈmʌslz/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "mušle"
+  },
+  {
+    "word": "peach",
+    "pronunciation": "/piːtʃ/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "broskev"
+  },
+  {
+    "word": "pear",
+    "pronunciation": "/peə(r)/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "hruška"
+  },
+  {
+    "word": "pepper",
+    "pronunciation": "/ˈpepə(r)/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "paprika"
+  },
+  {
+    "word": "pork",
+    "pronunciation": "/pɔːk/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "vepřové maso"
+  },
+  {
+    "word": "potatoes",
+    "pronunciation": "/pəˈteɪtəʊz/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "brambory"
+  },
+  {
+    "word": "prawns",
+    "pronunciation": "/prɔːnz/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "krevety"
+  },
+  {
+    "word": "raspberries",
+    "pronunciation": "/ˈræzbəriːz/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "maliny"
+  },
+  {
+    "word": "roast",
+    "pronunciation": "/rəʊst/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "pečený"
+  },
+  {
+    "word": "salmon",
+    "pronunciation": "/ˈsæmən/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "losos"
+  },
+  {
+    "word": "seafood",
+    "pronunciation": "/ˈsiːfuːd/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "mořské plody"
+  },
+  {
+    "word": "squid",
+    "pronunciation": "/skwɪd/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "chobotnice"
+  },
+  {
+    "word": "steamed",
+    "pronunciation": "/stiːmd/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "dušená"
+  },
+  {
+    "word": "tuna",
+    "pronunciation": "/ˈtjuːnə/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "tuňák"
+  },
+  {
+    "word": "vegetable",
+    "pronunciation": "/ˈvedʒtəbl/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Food and Cooking",
+    "translation": "zelenina"
+  },
+  {
+    "word": "affectionate",
+    "pronunciation": "/əˈfekʃənət/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "láskavý"
+  },
+  {
+    "word": "ambitious",
+    "pronunciation": "/æmˈbɪʃəs/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "ambiciozní"
+  },
+  {
+    "word": "anxious",
+    "pronunciation": "/ˈæŋkʃəs/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "úzkostný"
+  },
+  {
+    "word": "bossy",
+    "pronunciation": "/ˈbɒsi:/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "panovačný"
+  },
+  {
+    "word": "charming",
+    "pronunciation": "/ˈtʃɑːmɪŋ/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "okouzlující"
+  },
+  {
+    "word": "competitive",
+    "pronunciation": "/kəmˈpetətɪv/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "soutěživý"
+  },
+  {
+    "word": "dishonest",
+    "pronunciation": "/dɪsˈɒnɪst/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "nečestný"
+  },
+  {
+    "word": "disorganized",
+    "pronunciation": "/dɪsˈɔːɡənaɪzd/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "neorganizovaný"
+  },
+  {
+    "word": "friendly",
+    "pronunciation": "/ˈfrendli:/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "přátelský"
+  },
+  {
+    "word": "honest",
+    "pronunciation": "/ˈɒnɪst/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": " čestný"
+  },
+  {
+    "word": "imaginative",
+    "pronunciation": "/ɪˈmædʒɪnətɪv/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "nápaditý"
+  },
+  {
+    "word": "immature",
+    "pronunciation": "/ˌɪməˈtjʊə(r)/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "nezralý"
+  },
+  {
+    "word": "impatient",
+    "pronunciation": "/ɪmˈpeɪʃnt/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "netrpělivý"
+  },
+  {
+    "word": "independent",
+    "pronunciation": "/ˌɪndɪˈpendənt/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "nezávislý"
+  },
+  {
+    "word": "insecure",
+    "pronunciation": "/ˌɪnsɪˈkjʊə(r)/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "nejistý"
+  },
+  {
+    "word": "insensitive",
+    "pronunciation": "/ɪnˈsensətɪv/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "necitlivý"
+  },
+  {
+    "word": "irresponsible",
+    "pronunciation": "/ˌɪrɪˈspɒnsəbl/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "nezodpovědný"
+  },
+  {
+    "word": "kind",
+    "pronunciation": "/kaɪnd/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "druh"
+  },
+  {
+    "word": "mature",
+    "pronunciation": "/məˈtʃʊə(r)/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "zralý"
+  },
+  {
+    "word": "moody",
+    "pronunciation": "/ˈmuːdi:/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "náladový"
+  },
+  {
+    "word": "organized",
+    "pronunciation": "/ˈɔːɡənaɪzd/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "organizovaný"
+  },
+  {
+    "word": "patient",
+    "pronunciation": "/ˈpeɪʃnt/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "trpělivý"
+  },
+  {
+    "word": "rebellious",
+    "pronunciation": "/rɪˈbeljəs/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "vzpurný"
+  },
+  {
+    "word": "reliable",
+    "pronunciation": "/rɪˈlaɪəbl/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "spolehlivý"
+  },
+  {
+    "word": "responsible",
+    "pronunciation": "/rɪˈspɒnsəbl/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "zodpovědný"
+  },
+  {
+    "word": "self-confident",
+    "pronunciation": "/ˌself ˈkɒnfɪdənt/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "sebevědomý"
+  },
+  {
+    "word": "selfish",
+    "pronunciation": "/ˈselfɪʃ/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "sobecký"
+  },
+  {
+    "word": "sensible",
+    "pronunciation": "/ˈsensəbl/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "rozumný"
+  },
+  {
+    "word": "sensitive",
+    "pronunciation": "/ˈsensətɪv/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "citlivý"
+  },
+  {
+    "word": "sociable",
+    "pronunciation": "/ˈsəʊʃəbl/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "společenský"
+  },
+  {
+    "word": "spoilt",
+    "pronunciation": "/spɔɪlt/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "rozmazlený"
+  },
+  {
+    "word": "stubborn",
+    "pronunciation": "/ˈstʌbən/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "tvrdohlavý"
+  },
+  {
+    "word": "sympathetic",
+    "pronunciation": "/sɪmpəˈθetɪk/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "sympatický"
+  },
+  {
+    "word": "tidy",
+    "pronunciation": "/ˈtaɪdi/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": " uklizený"
+  },
+  {
+    "word": "unambitious",
+    "pronunciation": "/ʌnæmˈbɪʃəs/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "neambiciózní"
+  },
+  {
+    "word": "unfriendly",
+    "pronunciation": "/ʌnˈfrendli/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "nepřátelský"
+  },
+  {
+    "word": "unimaginative",
+    "pronunciation": "/ʌnɪˈmædʒɪnətɪv/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "nenápaditý"
+  },
+  {
+    "word": "unkind",
+    "pronunciation": "/ʌnˈkaɪnd/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "laskavý"
+  },
+  {
+    "word": "unreliable",
+    "pronunciation": "/ʌnrɪˈlaɪəbl/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "nespolehlivý"
+  },
+  {
+    "word": "unselfish",
+    "pronunciation": "/ʌnˈselfɪʃ/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "nesobecký"
+  },
+  {
+    "word": "unsociable",
+    "pronunciation": "/ʌnˈsəʊʃəbl/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "nespolečenský"
+  },
+  {
+    "word": "untidy",
+    "pronunciation": "/ʌnˈtaɪdi/",
+    "file": "1",
+    "topic": "Vocabulary Banks - Personality",
+    "translation": "neúhledný"
+  },
+  {
+    "word": "cake",
+    "pronunciation": "/keɪk/",
+    "file": "1",
+    "topic": "Food and Cooking",
+    "translation": "koláč"
+  },
+  {
+    "word": "cookie",
+    "pronunciation": "/ˈkʊki/",
+    "file": "1",
+    "topic": "Food and Cooking",
+    "translation": "sušek"
+  },
+  {
+    "word": "fresh",
+    "pronunciation": "/freʃ/",
+    "file": "1",
+    "topic": "Food and Cooking",
+    "translation": "čerstvý"
+  },
+  {
+    "word": "frozen",
+    "pronunciation": "/ˈfrəʊzn/",
+    "file": "1",
+    "topic": "Food and Cooking",
+    "translation": "mražený"
+  },
+  {
+    "word": "fruit salad",
+    "pronunciation": "/ˌfruːt ˈsæləd/",
+    "file": "1",
+    "topic": "Food and Cooking",
+    "translation": "ovocný salát"
+  },
+  {
+    "word": "hot",
+    "pronunciation": "/hɒt/",
+    "file": "1",
+    "topic": "Food and Cooking",
+    "translation": "pálivý"
+  },
+  {
+    "word": "low-fat",
+    "pronunciation": "/ləʊ fæt/",
+    "file": "1",
+    "topic": "Food and Cooking",
+    "translation": "nízkotučný"
+  },
+  {
+    "word": "onions",
+    "pronunciation": "/ˈʌnjənz/",
+    "file": "1",
+    "topic": "Food and Cooking",
+    "translation": "cibule"
+  },
+  {
+    "word": "pasta",
+    "pronunciation": "/ˈpæstə/",
+    "file": "1",
+    "topic": "Food and Cooking",
+    "translation": "těstoviny"
+  },
+  {
+    "word": "pear",
+    "pronunciation": "/peə/",
+    "file": "1",
+    "topic": "Food and Cooking",
+    "translation": "hruška"
+  },
+  {
+    "word": "raw",
+    "pronunciation": "/rɔː/",
+    "file": "1",
+    "topic": "Food and Cooking",
+    "translation": "syrové"
+  },
+  {
+    "word": "spicy",
+    "pronunciation": "/ˈspaɪsi/",
+    "file": "1",
+    "topic": "Food and Cooking",
+    "translation": "pikantní"
+  },
+  {
+    "word": "tinned",
+    "pronunciation": "/tɪnd/",
+    "file": "1",
+    "topic": "Food and Cooking",
+    "translation": "konzervované"
+  },
+  {
+    "word": "tomato",
+    "pronunciation": "/təˈmɑːtəʊ/",
+    "file": "1",
+    "topic": "Food and Cooking",
+    "translation": "rajče"
+  },
+  {
+    "word": "How fantastic!",
+    "pronunciation": "/haʊ fænˈtæstɪk/",
+    "file": "1",
+    "topic": "Practical English",
+    "translation": "Jak fantastické!"
+  },
+  {
+    "word": "I don't believe it.",
+    "pronunciation": "/aɪ dəʊnt bɪˈliːv ɪt/",
+    "file": "1",
+    "topic": "Practical English",
+    "translation": "Tomu nevěřím."
+  },
+  {
+    "word": "Never mind.",
+    "pronunciation": "/ˈnevə maɪnd/",
+    "file": "1",
+    "topic": "Practical English",
+    "translation": "Nevadí."
+  },
+  {
+    "word": "Oh no!",
+    "pronunciation": "/əʊ nəʊ/",
+    "file": "1",
+    "topic": "Practical English",
+    "translation": "Ale ne!"
+  },
+  {
+    "word": "Really?",
+    "pronunciation": "/ˈriːəli:/",
+    "file": "1",
+    "topic": "Practical English",
+    "translation": "Opravdu?"
+  },
+  {
+    "word": "That's great news!",
+    "pronunciation": "/ðæts ɡreɪt njuːz/",
+    "file": "1",
+    "topic": "Practical English",
+    "translation": "To je skvělá zpráva!"
+  },
+  {
+    "word": "What a great idea!",
+    "pronunciation": "/wɒt ə ɡreɪt aɪˈdɪə/",
+    "file": "1",
+    "topic": "Practical English",
+    "translation": "To je skvělý nápad!"
+  },
+  {
+    "word": "What a pity.",
+    "pronunciation": "/wɒt ə ˈpɪti/",
+    "file": "1",
+    "topic": "Practical English",
+    "translation": "To je škoda."
+  },
+  {
+    "word": "You're kidding.",
+    "pronunciation": "/jɔː kɪdɪŋ/",
+    "file": "1",
+    "topic": "Practical English",
+    "translation": "Děláš si srandu."
+  },
+  {
+    "word": "Go ahead.",
+    "pronunciation": "/ɡəʊ əˈhed/",
+    "file": "1",
+    "topic": "Social English",
+    "translation": "Do toho."
+  },
+  {
+    "word": "He's a really nice guy.",
+    "pronunciation": "/hiːz ə ˈriːəli naɪs ɡaɪ/",
+    "file": "1",
+    "topic": "Social English",
+    "translation": "On je opravdu milý chlap."
+  },
+  {
+    "word": "How do you see…",
+    "pronunciation": "/haʊ duː juː siː/",
+    "file": "1",
+    "topic": "Social English",
+    "translation": "Jak vidíš..."
+  },
+  {
+    "word": "How incredible!",
+    "pronunciation": "/haʊ ɪnˈkredəbl/",
+    "file": "1",
+    "topic": "Social English",
+    "translation": "Jak neuvěřitelné!"
+  },
+  {
+    "word": "I mean…",
+    "pronunciation": "/aɪ miːn/",
+    "file": "1",
+    "topic": "Social English",
+    "translation": "Myslím..."
+  },
+  {
+    "word": "Not really.",
+    "pronunciation": "/nɒt ˈriːəli:/",
+    "file": "1",
+    "topic": "Social English",
+    "translation": "Vlastně ne ."
+  },
+  {
+    "word": "That's because",
+    "pronunciation": "/ðæts bɪˈkɒz/",
+    "file": "1",
+    "topic": "Social English",
+    "translation": "To proto"
+  },
+  {
+    "word": "Things like that.",
+    "pronunciation": "/θɪŋz laɪk ðæt/",
+    "file": "1",
+    "topic": "Social English",
+    "translation": "Takové věci."
+  },
+  {
+    "word": "allergic",
+    "pronunciation": "/əˈlɜːdʒɪk/",
+    "file": "1",
+    "topic": "More words and phrases in File 1",
+    "translation": "alergický"
+  },
+  {
+    "word": "cheer yourself up",
+    "pronunciation": "/tʃɪə jɔːˈself ʌp/",
+    "file": "1",
+    "topic": "More words and phrases in File 1",
+    "translation": "rozveselte se"
+  },
+  {
+    "word": "filling",
+    "pronunciation": "/fɪlɪŋ/",
+    "file": "1",
+    "topic": "More words and phrases in File 1",
+    "translation": "plnit"
+  },
+  {
+    "word": "generous",
+    "pronunciation": "/ˈdʒenərəs/",
+    "file": "1",
+    "topic": "More words and phrases in File 1",
+    "translation": "velkorysý"
+  },
+  {
+    "word": "intolerant",
+    "pronunciation": "/ɪnˈtɒlərənt/",
+    "file": "1",
+    "topic": "More words and phrases in File 1",
+    "translation": "nesnášenlivý"
+  },
+  {
+    "word": "miss",
+    "pronunciation": "/mɪs/",
+    "file": "1",
+    "topic": "More words and phrases in File 1",
+    "translation": "nevyhovující"
+  },
+  {
+    "word": "ready-made",
+    "pronunciation": "/ˈredi meɪd/",
+    "file": "1",
+    "topic": "More words and phrases in File 1",
+    "translation": "konfekce"
+  },
+  {
+    "word": "rebellious",
+    "pronunciation": "/rɪˈbeljəs/",
+    "file": "1",
+    "topic": "More words and phrases in File 1",
+    "translation": "vzpurný"
+  },
+  {
+    "word": "takeaway",
+    "pronunciation": "/ˈteɪkəweɪ/",
+    "file": "1",
+    "topic": "More words and phrases in File 1",
+    "translation": "s sebou"
+  },
+  {
+    "word": "talkative",
+    "pronunciation": "/ˈtɔːkətɪv/",
+    "file": "1",
+    "topic": "More words and phrases in File 1",
+    "translation": "mluvný"
+  },
+  {
+    "word": "topping",
+    "pronunciation": "/tɒpɪŋ/",
+    "file": "1",
+    "topic": "More words and phrases in File 1",
+    "translation": "poleva"
+  },
+  {
+    "word": "afford",
+    "pronunciation": "/əˈfɔːd/",
+    "file": "2",
+    "topic": "Vocabulary Banks - Money",
+    "translation": "dovolit si"
+  },
+  {
+    "word": "bill",
+    "pronunciation": "/bɪl/",
+    "file": "2",
+    "topic": "Vocabulary Banks - Money",
+    "translation": "účet"
+  },
+  {
+    "word": "borrow",
+    "pronunciation": "/ˈbɒrəʊ/",
+    "file": "2",
+    "topic": "Vocabulary Banks - Money",
+    "translation": "půjčit"
+  },
+  {
+    "word": "budget",
+    "pronunciation": "/ˈbʌdʒɪt/",
+    "file": "2",
+    "topic": "Vocabulary Banks - Money",
+    "translation": "rozpočet"
+  },
+  {
+    "word": "charge",
+    "pronunciation": "/tʃɑːdʒ/",
+    "file": "2",
+    "topic": "Vocabulary Banks - Money",
+    "translation": "poplatek"
+  },
+  {
+    "word": "contactless payment",
+    "pronunciation": "/ˈkɒntæktləs ˈpeɪmənt/",
+    "file": "2",
+    "topic": "Vocabulary Banks - Money",
+    "translation": "bezkontaktní platba"
+  },
+  {
+    "word": "cost",
+    "pronunciation": "/kɒst/",
+    "file": "2",
+    "topic": "Vocabulary Banks - Money",
+    "translation": "cena "
+  },
+  {
+    "word": "earn",
+    "pronunciation": "/ɜːn/",
+    "file": "2",
+    "topic": "Vocabulary Banks - Money",
+    "translation": "vydělat"
+  },
+  {
+    "word": "inherit",
+    "pronunciation": "/ɪnˈherɪt/",
+    "file": "2",
+    "topic": "Vocabulary Banks - Money",
+    "translation": "zdědit"
+  },
+  {
+    "word": "insurance",
+    "pronunciation": "/ɪnˈʃɔːrəns/",
+    "file": "2",
+    "topic": "Vocabulary Banks - Money",
+    "translation": "pojištění"
+  },
+  {
+    "word": "invest",
+    "pronunciation": "/ɪnˈvest/",
+    "file": "2",
+    "topic": "Vocabulary Banks - Money",
+    "translation": "investovat"
+  },
+  {
+    "word": "lend",
+    "pronunciation": "/lend/",
+    "file": "2",
+    "topic": "Vocabulary Banks - Money",
+    "translation": "půjčit"
+  },
+  {
+    "word": "live off",
+    "pronunciation": "/lɪv ɒf/",
+    "file": "2",
+    "topic": "Vocabulary Banks - Money",
+    "translation": "žít"
+  },
+  {
+    "word": "live on",
+    "pronunciation": "/lɪv ɒn/",
+    "file": "2",
+    "topic": "Vocabulary Banks - Money",
+    "translation": "žít"
+  },
+  {
+    "word": "loan",
+    "pronunciation": "/ləʊn/",
+    "file": "2",
+    "topic": "Vocabulary Banks - Money",
+    "translation": "půjčka"
+  },
+  {
+    "word": "mortgage",
+    "pronunciation": "/ˈmɔːɡɪdʒ/",
+    "file": "2",
+    "topic": "Vocabulary Banks - Money",
+    "translation": "hypotéka"
+  },
+  {
+    "word": "note",
+    "pronunciation": "/nəʊt/",
+    "file": "2",
+    "topic": "Vocabulary Banks - Money",
+    "translation": "poznámka"
+  },
+  {
+    "word": "owe",
+    "pronunciation": "/əʊ/",
+    "file": "2",
+    "topic": "Vocabulary Banks - Money",
+    "translation": "dlužit"
+  },
+  {
+    "word": "pay",
+    "pronunciation": "/peɪ/",
+    "file": "2",
+    "topic": "Vocabulary Banks - Money",
+    "translation": "splatit"
+  },
+  {
+    "word": "pay back",
+    "pronunciation": "/ˈpeɪ bæk/",
+    "file": "2",
+    "topic": "Vocabulary Banks - Money",
+    "translation": "splatit"
+  },
+  {
+    "word": "raise",
+    "pronunciation": "/reɪz/",
+    "file": "2",
+    "topic": "Vocabulary Banks - Money",
+    "translation": "zvýšit"
+  },
+  {
+    "word": "salary",
+    "pronunciation": "/ˈsæləri/",
+    "file": "2",
+    "topic": "Vocabulary Banks - Money",
+    "translation": "plat"
+  },
+  {
+    "word": "save",
+    "pronunciation": "/seɪv/",
+    "file": "2",
+    "topic": "Vocabulary Banks - Money",
+    "translation": "ušetřit"
+  },
+  {
+    "word": "spend",
+    "pronunciation": "/spend/",
+    "file": "2",
+    "topic": "Vocabulary Banks - Money",
+    "translation": "utratit"
+  },
+  {
+    "word": "take out",
+    "pronunciation": "/ˈteɪk aʊt/",
+    "file": "2",
+    "topic": "Vocabulary Banks - Money",
+    "translation": "vybrat"
+  },
+  {
+    "word": "tax",
+    "pronunciation": "/tæks/",
+    "file": "2",
+    "topic": "Vocabulary Banks - Money",
+    "translation": "daň"
+  },
+  {
+    "word": "waste",
+    "pronunciation": "/weɪst/",
+    "file": "2",
+    "topic": "Vocabulary Banks - Money",
+    "translation": "plýtvání"
+  },
+  {
+    "word": "worth",
+    "pronunciation": "/wɜːθ/",
+    "file": "2",
+    "topic": "Vocabulary Banks - Money",
+    "translation": "hodnota"
+  },
+  {
+    "word": "beauty treatment",
+    "pronunciation": "/ˈbjuːti ˈtriːtmənt/",
+    "file": "2",
+    "topic": "Compound nouns",
+    "translation": "kosmetika"
+  },
+  {
+    "word": "cash machine",
+    "pronunciation": "/kæʃ məˈʃiːn/",
+    "file": "2",
+    "topic": "Compound nouns",
+    "translation": " bankomat"
+  },
+  {
+    "word": "cleaning product",
+    "pronunciation": "/ˈkliːnɪŋ ˈprɒdʌkt/",
+    "file": "2",
+    "topic": "Compound nouns",
+    "translation": "úklidový produkt"
+  },
+  {
+    "word": "cycling trip",
+    "pronunciation": "/ˈsaɪklɪŋ trɪp/",
+    "file": "2",
+    "topic": "Compound nouns",
+    "translation": "cyklistický výlet"
+  },
+  {
+    "word": "electricity bill",
+    "pronunciation": "/ɪˌlekˈtrɪsəti bɪl/",
+    "file": "2",
+    "topic": "Compound nouns",
+    "translation": "účet za elektřinu"
+  },
+  {
+    "word": "olive oil",
+    "pronunciation": "/ˈɒlɪv ɔɪl/",
+    "file": "2",
+    "topic": "Compound nouns",
+    "translation": "olivový olej"
+  },
+  {
+    "word": "tap water",
+    "pronunciation": "/tæp ˈwɔːtə(r)/",
+    "file": "2",
+    "topic": "Compound nouns",
+    "translation": "voda z kohoutku"
+  },
+  {
+    "word": "amazed",
+    "pronunciation": "/əˈmeɪzd/",
+    "file": "2",
+    "topic": "Strong adjectives",
+    "translation": "ohromen"
+  },
+  {
+    "word": "boiling",
+    "pronunciation": "/ˈbɔɪlɪŋ/",
+    "file": "2",
+    "topic": "Strong adjectives",
+    "translation": "vařící"
+  },
+  {
+    "word": "delighted",
+    "pronunciation": "/dɪˈlaɪtɪd/",
+    "file": "2",
+    "topic": "Strong adjectives",
+    "translation": "potěšený"
+  },
+  {
+    "word": "enormous",
+    "pronunciation": "/ɪˈnɔːməs/",
+    "file": "2",
+    "topic": "Strong adjectives",
+    "translation": "obrovský"
+  },
+  {
+    "word": "exhausted",
+    "pronunciation": "/ɪɡˈzɔːstɪd/",
+    "file": "2",
+    "topic": "Strong adjectives",
+    "translation": "vyčerpaný"
+  },
+  {
+    "word": "fascinating",
+    "pronunciation": "/ˈfæsɪneɪtɪŋ/",
+    "file": "2",
+    "topic": "Strong adjectives",
+    "translation": "fascinující"
+  },
+  {
+    "word": "filthy",
+    "pronunciation": "/ˈfɪlθi/",
+    "file": "2",
+    "topic": "Strong adjectives",
+    "translation": "špinavý"
+  },
+  {
+    "word": "freezing",
+    "pronunciation": "/ˈfriːzɪŋ/",
+    "file": "2",
+    "topic": "Strong adjectives",
+    "translation": "mrazivý"
+  },
+  {
+    "word": "furious",
+    "pronunciation": "/ˈfjʊəriəs/",
+    "file": "2",
+    "topic": "Strong adjectives",
+    "translation": "zběsilý"
+  },
+  {
+    "word": "hilarious",
+    "pronunciation": "/hɪˈleəriəs/",
+    "file": "2",
+    "topic": "Strong adjectives",
+    "translation": "veselý"
+  },
+  {
+    "word": "huge",
+    "pronunciation": "/hjuːdʒ/",
+    "file": "2",
+    "topic": "Strong adjectives",
+    "translation": "obrovský"
+  },
+  {
+    "word": "positive",
+    "pronunciation": "/ˈpɒzətɪv/",
+    "file": "2",
+    "topic": "Strong adjectives",
+    "translation": "pozitivní"
+  },
+  {
+    "word": "starving",
+    "pronunciation": "/stɑːvɪŋ/",
+    "file": "2",
+    "topic": "Strong adjectives",
+    "translation": "hladovějící"
+  },
+  {
+    "word": "terrified",
+    "pronunciation": "/ˈterɪfaɪd/",
+    "file": "2",
+    "topic": "Strong adjectives",
+    "translation": "vyděšený"
+  },
+  {
+    "word": "tiny",
+    "pronunciation": "/ˈtaɪni/",
+    "file": "2",
+    "topic": "Strong adjectives",
+    "translation": "malý"
+  },
+  {
+    "word": "scam",
+    "pronunciation": "/skæm/",
+    "file": "2",
+    "topic": "More words and phrases in File 2",
+    "translation": "podvod"
+  },
+  {
+    "word": "car crash",
+    "pronunciation": "/kɑː(r) kræʃ/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Transport",
+    "translation": " autonehoda"
+  },
+  {
+    "word": "coach",
+    "pronunciation": "/kəʊtʃ/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Transport",
+    "translation": "autokar"
+  },
+  {
+    "word": "cycle lane",
+    "pronunciation": "/ˈsaɪkl leɪn/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Transport",
+    "translation": "cyklopruh"
+  },
+  {
+    "word": "end up",
+    "pronunciation": "/end ʌp/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Transport",
+    "translation": "konec"
+  },
+  {
+    "word": "ferry",
+    "pronunciation": "/ˈferi:/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Transport",
+    "translation": "trajekt"
+  },
+  {
+    "word": "lorry",
+    "pronunciation": "/ˈlɒri:/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Transport",
+    "translation": "nákladní automobil"
+  },
+  {
+    "word": "motorbike",
+    "pronunciation": "/ˈməʊtəbaɪk/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Transport",
+    "translation": "motorka"
+  },
+  {
+    "word": "motorway",
+    "pronunciation": "/ˈməʊtəweɪ/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Transport",
+    "translation": "dálnice"
+  },
+  {
+    "word": "parking fine",
+    "pronunciation": "/pɑːkɪŋ faɪn/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Transport",
+    "translation": "parkování v pořádku"
+  },
+  {
+    "word": "pedestrian zone",
+    "pronunciation": "/pəˈdestriən zəʊn/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Transport",
+    "translation": "pěší zóna"
+  },
+  {
+    "word": "petrol station",
+    "pronunciation": "/ˈpetrəl steɪʃn/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Transport",
+    "translation": "benzinová pumpa"
+  },
+  {
+    "word": "pick up",
+    "pronunciation": "/ˈpɪk ʌp/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Transport",
+    "translation": "vyzvednutí"
+  },
+  {
+    "word": "roadworks",
+    "pronunciation": "/ˈrəʊdwɜːks/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Transport",
+    "translation": "silnice"
+  },
+  {
+    "word": "run out",
+    "pronunciation": "/rʌn aʊt/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Transport",
+    "translation": "dojíždět"
+  },
+  {
+    "word": "rush hour",
+    "pronunciation": "/ˈrʌʃ aʊə(r)/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Transport",
+    "translation": "špička"
+  },
+  {
+    "word": "scooter",
+    "pronunciation": "/ˈskuːtə(r)/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Transport",
+    "translation": "skútr"
+  },
+  {
+    "word": "seat belt",
+    "pronunciation": "/ˈsiːt ˌbelt/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Transport",
+    "translation": "pás"
+  },
+  {
+    "word": "set off",
+    "pronunciation": "/set ɒf/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Transport",
+    "translation": "vyjet"
+  },
+  {
+    "word": "speed camera",
+    "pronunciation": "/ˈspiːd ˌkæmərə/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Transport",
+    "translation": "rychlostní kamera"
+  },
+  {
+    "word": "speed limit",
+    "pronunciation": "/ˈspiːd lɪmɪt/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Transport",
+    "translation": " rychlostní limit"
+  },
+  {
+    "word": "taxi rank",
+    "pronunciation": "/ˈtæksi rænk/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Transport",
+    "translation": "stanoviště taxíků"
+  },
+  {
+    "word": "traffic jam",
+    "pronunciation": "/ˈtræfɪk ˌdʒæm/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Transport",
+    "translation": "dopravní zácpa"
+  },
+  {
+    "word": "traffic lights",
+    "pronunciation": "/ˈtræfɪk laɪts/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Transport",
+    "translation": "semafor"
+  },
+  {
+    "word": "tram",
+    "pronunciation": "/træm/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Transport",
+    "translation": "tramvaj"
+  },
+  {
+    "word": "Underground",
+    "pronunciation": "/ˈʌndəɡraʊnd/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Transport",
+    "translation": "Metro"
+  },
+  {
+    "word": "van",
+    "pronunciation": "/væn/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Transport",
+    "translation": "dodávka"
+  },
+  {
+    "word": "watch",
+    "pronunciation": "/ look out! /",
+    "file": "3",
+    "topic": "Vocabulary Banks - Transport",
+    "translation": "sledovat"
+  },
+  {
+    "word": "zebra crossing",
+    "pronunciation": "/ˌzebrə ˈkrɒsɪŋ/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Transport",
+    "translation": "přechod pro chodce"
+  },
+  {
+    "word": "afraid of",
+    "pronunciation": "/əˈfreɪd ɒv/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": "bojím se"
+  },
+  {
+    "word": "angry with",
+    "pronunciation": "/ˈæŋɡri: wɪð/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": "rozzlobený s"
+  },
+  {
+    "word": "apologize to",
+    "pronunciation": "/əˈpɒlədʒaɪz tə/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": "omluvit se"
+  },
+  {
+    "word": "argue with",
+    "pronunciation": "/ˈɑːɡjuː wɪð/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": "hádat se s"
+  },
+  {
+    "word": "arrive at",
+    "pronunciation": "/əˈraɪv æt/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": "přijet"
+  },
+  {
+    "word": "arrive in",
+    "pronunciation": "/əˈraɪv ɪn/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": "požádat o"
+  },
+  {
+    "word": "ask for",
+    "pronunciation": "/ɑːsk fɔː/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": "věřit"
+  },
+  {
+    "word": "believe in",
+    "pronunciation": "/bɪˈliːv ɪn/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": "patřit"
+  },
+  {
+    "word": "belong to",
+    "pronunciation": "/bɪˈlɒŋ tə/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": " vyberte si mezi"
+  },
+  {
+    "word": "choose between",
+    "pronunciation": "/tʃuːz bɪˈtwiːn/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": "blízko"
+  },
+  {
+    "word": "close to",
+    "pronunciation": "/kləʊs tu:/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": "závisí na"
+  },
+  {
+    "word": "depend on",
+    "pronunciation": "/dɪˈpend ɒn/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": "odlišné od"
+  },
+  {
+    "word": "different from",
+    "pronunciation": "/ˈdɪfrənt frɒm/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": "snít o"
+  },
+  {
+    "word": "dream about",
+    "pronunciation": "/driːm əˈbaʊt/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": "e xcited about"
+  },
+  {
+    "word": "excited about",
+    "pronunciation": "/ɪkˈsaɪtɪd əˈbaʊt/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": "famous for"
+  },
+  {
+    "word": "famous for",
+    "pronunciation": "/ˈfeɪməs fɔː/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": "fed up with"
+  },
+  {
+    "word": "fed up with",
+    "pronunciation": "/fed ʌp wɪð/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": "fad of"
+  },
+  {
+    "word": "fond of",
+    "pronunciation": "/fɒnd ɒv/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": "frightened of"
+  },
+  {
+    "word": "frightened of",
+    "pronunciation": "/ˈfraɪtnd ɒv/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": "good at"
+  },
+  {
+    "word": "good at",
+    "pronunciation": "/ɡʊd æt/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": "good for"
+  },
+  {
+    "word": "good for",
+    "pronunciation": "/ɡʊd fɔː/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": "interested in"
+  },
+  {
+    "word": "interested in",
+    "pronunciation": "/ˈɪntrəstɪd ɪn/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": "keen on"
+  },
+  {
+    "word": "keen on",
+    "pronunciation": "/kiːn ɒn/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": "lauch to"
+  },
+  {
+    "word": "kind to",
+    "pronunciation": "/kaɪnd tu:/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": "smát se"
+  },
+  {
+    "word": "laugh at",
+    "pronunciation": "/lɑːf æt/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": "těšit se na"
+  },
+  {
+    "word": "look forward to",
+    "pronunciation": "/lʊk ˈfɔːwəd tu:/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": "married to"
+  },
+  {
+    "word": "married to",
+    "pronunciation": "/ˈmæri:d tu:/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": "pay for"
+  },
+  {
+    "word": "pay for",
+    "pronunciation": "/peɪ fɔː/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": "pleased with"
+  },
+  {
+    "word": "pleased with",
+    "pronunciation": "/pliːzd wɪð/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": "hrd of"
+  },
+  {
+    "word": "proud of",
+    "pronunciation": "/praʊd ɒv/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": " připomeň (sb) of"
+  },
+  {
+    "word": "remind (sb) of",
+    "pronunciation": "/rɪˈmaɪnd ɒv/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": "hrubý to"
+  },
+  {
+    "word": "rude to",
+    "pronunciation": "/ruːd tu:/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": "strach z"
+  },
+  {
+    "word": "scared of",
+    "pronunciation": "/skeəd ɒv/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": "utrácej peníze za"
+  },
+  {
+    "word": "spend money on",
+    "pronunciation": "/spend ˈmʌni ɒn/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": "mluvte o"
+  },
+  {
+    "word": "talk about",
+    "pronunciation": "/tɔːk əˈbaʊt/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": "mluvte s"
+  },
+  {
+    "word": "talk to",
+    "pronunciation": "/tɔːk tuː/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": "unavený z"
+  },
+  {
+    "word": "tired of",
+    "pronunciation": "/ˈtaɪəd ɒv/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": "staráte se o"
+  },
+  {
+    "word": "worried about",
+    "pronunciation": "/ˈwʌri:d əˈbaʊt/",
+    "file": "3",
+    "topic": "Vocabulary Banks - Dependent prepositions",
+    "translation": "Nesouhlasíte?"
+  },
+  {
+    "word": "Don't you agree?",
+    "pronunciation": "/dəʊnt juː əˈɡriː/",
+    "file": "3",
+    "topic": "Practical English",
+    "translation": "Souhlasím"
+  },
+  {
+    "word": "I agree",
+    "pronunciation": "/aɪ əˈɡriː/",
+    "file": "3",
+    "topic": "Practical English",
+    "translation": "Nemyslím si, že je to správné."
+  },
+  {
+    "word": "I don't think that's right.",
+    "pronunciation": "/aɪ dəʊnt θɪŋk ðæts raɪt/",
+    "file": "3",
+    "topic": "Practical English",
+    "translation": "Pokud se ptáte já, …"
+  },
+  {
+    "word": "If you ask me, …",
+    "pronunciation": "/ɪf juː ɑːsk miː/",
+    "file": "3",
+    "topic": "Practical English",
+    "translation": "podle mého názoru"
+  },
+  {
+    "word": "in my opinion",
+    "pronunciation": "/ɪn maɪ əˈpɪnjən/",
+    "file": "3",
+    "topic": "Practical English",
+    "translation": "Ach, jistě, …"
+  },
+  {
+    "word": "Oh, sure, …",
+    "pronunciation": "/əʊ ʃɔː/",
+    "file": "3",
+    "topic": "Practical English",
+    "translation": "Osobně"
+  },
+  {
+    "word": "Personally",
+    "pronunciation": "/ˈpɜːsənəli/",
+    "file": "3",
+    "topic": "Practical English",
+    "translation": "Abych byl upřímný"
+  },
+  {
+    "word": "To be honest",
+    "pronunciation": "/tu: biː ˈɒnɪst/",
+    "file": "3",
+    "topic": "Practical English",
+    "translation": "Co si myslíš?"
+  },
+  {
+    "word": "What do you think?",
+    "pronunciation": "/wɒt duː juː θɪŋk/",
+    "file": "3",
+    "topic": "Practical English",
+    "translation": "Vrať se."
+  },
+  {
+    "word": "Come back.",
+    "pronunciation": "/kʌm bæk/",
+    "file": "3",
+    "topic": "Social English",
+    "translation": "Měl jsi na mysli"
+  },
+  {
+    "word": "Did you mean",
+    "pronunciation": "/dɪd juː miːn/",
+    "file": "3",
+    "topic": "Social English",
+    "translation": "Je to jen tak"
+  },
+  {
+    "word": "It's just that",
+    "pronunciation": "/ɪts dʒʌst ðæt/",
+    "file": "3",
+    "topic": "Social English",
+    "translation": "druh"
+  },
+  {
+    "word": "kind of",
+    "pronunciation": "/kaɪnd ɒv/",
+    "file": "3",
+    "topic": "Social English",
+    "translation": "Oh, vydrž chvíli."
+  },
+  {
+    "word": "Oh, hang on a minute.",
+    "pronunciation": "/əʊ hæŋ ɒn ə ˈmɪnɪt/",
+    "file": "3",
+    "topic": "Social English",
+    "translation": "ahead of"
+  },
+  {
+    "word": "ahead of",
+    "pronunciation": "/əˈhed ɒv/",
+    "file": "3",
+    "topic": "More words and phrases in File 3",
+    "translation": "argument"
+  },
+  {
+    "word": "argue",
+    "pronunciation": "/ˈɑːɡjuː/",
+    "file": "3",
+    "topic": "More words and phrases in File 3",
+    "translation": "narazit"
+  },
+  {
+    "word": "crash into",
+    "pronunciation": "/kræʃ ˈɪntuː/",
+    "file": "3",
+    "topic": "More words and phrases in File 3",
+    "translation": "objevit"
+  },
+  {
+    "word": "discover",
+    "pronunciation": "/dɪˈskʌvə/",
+    "file": "3",
+    "topic": "More words and phrases in File 3",
+    "translation": "najít"
+  },
+  {
+    "word": "find",
+    "pronunciation": "/faɪnd/",
+    "file": "3",
+    "topic": "More words and phrases in File 3",
+    "translation": "obecně"
+  },
+  {
+    "word": "generally",
+    "pronunciation": "/ˈdʒenrəli/",
+    "file": "3",
+    "topic": "More words and phrases in File 3",
+    "translation": "zaseknout se"
+  },
+  {
+    "word": "get stuck",
+    "pronunciation": "/ɡet stʌk/",
+    "file": "3",
+    "topic": "More words and phrases in File 3",
+    "translation": "zhoršit se"
+  },
+  {
+    "word": "get worse",
+    "pronunciation": "/ɡet wɜːs/",
+    "file": "3",
+    "topic": "More words and phrases in File 3",
+    "translation": "obecně"
+  },
+  {
+    "word": "in general",
+    "pronunciation": "/ɪn ˈdʒenrəl/",
+    "file": "3",
+    "topic": "More words and phrases in File 3",
+    "translation": "pravděpodobně"
+  },
+  {
+    "word": "likely",
+    "pronunciation": "/ˈlaɪkli:/",
+    "file": "3",
+    "topic": "More words and phrases in File 3",
+    "translation": "celkově"
+  },
+  {
+    "word": "on the whole",
+    "pronunciation": "/ɒn ðə həʊl/",
+    "file": "3",
+    "topic": "More words and phrases in File 3",
+    "translation": "dokázat"
+  },
+  {
+    "word": "prove",
+    "pronunciation": "/pruːv/",
+    "file": "3",
+    "topic": "More words and phrases in File 3",
+    "translation": "ukázat"
+  },
+  {
+    "word": "show",
+    "pronunciation": "/ʃəʊ/",
+    "file": "3",
+    "topic": "More words and phrases in File 3",
+    "translation": "tendovat"
+  },
+  {
+    "word": "tend",
+    "pronunciation": "/tend/",
+    "file": "3",
+    "topic": "More words and phrases in File 3",
+    "translation": "otočit se"
+  },
+  {
+    "word": "turn around",
+    "pronunciation": "/tɜːn əˈraʊnd/",
+    "file": "3",
+    "topic": "More words and phrases in File 3",
+    "translation": "vypnout"
+  },
+  {
+    "word": "turn out",
+    "pronunciation": "/tɜːn aʊt/",
+    "file": "3",
+    "topic": "More words and phrases in File 3",
+    "translation": "zčervenat"
+  },
+  {
+    "word": "turn red",
+    "pronunciation": "/tɜːn red/",
+    "file": "3",
+    "topic": "More words and phrases in File 3",
+    "translation": "obvykle"
+  },
+  {
+    "word": "usually",
+    "pronunciation": "/ˈjuːʒuəli:/",
+    "file": "3",
+    "topic": "More words and phrases in File 3",
+    "translation": "zavolat"
+  },
+  {
+    "word": "call back",
+    "pronunciation": "/kɔːl bæk/",
+    "file": "4",
+    "topic": "Phone language",
+    "translation": "odříznout "
+  },
+  {
+    "word": "cut off",
+    "pronunciation": "/kʌt ɒf/",
+    "file": "4",
+    "topic": "Phone language",
+    "translation": "vytáčení"
+  },
+  {
+    "word": "dialling",
+    "pronunciation": "/ˈdaɪəlɪŋ/",
+    "file": "4",
+    "topic": "Phone language",
+    "translation": "zapojený"
+  },
+  {
+    "word": "engaged",
+    "pronunciation": "/ɪnˈɡeɪdʒd/",
+    "file": "4",
+    "topic": "Phone language",
+    "translation": "odejít"
+  },
+  {
+    "word": "go off",
+    "pronunciation": "/ɡəʊ ɒf/",
+    "file": "4",
+    "topic": "Phone language",
+    "translation": "zavěsit"
+  },
+  {
+    "word": "hang up",
+    "pronunciation": "/hæŋ ʌp/",
+    "file": "4",
+    "topic": "Phone language",
+    "translation": "zanechat zprávu"
+  },
+  {
+    "word": "leave a message",
+    "pronunciation": "/liːv ə ˈmesɪdʒ/",
+    "file": "4",
+    "topic": "Phone language",
+    "translation": "zprávy"
+  },
+  {
+    "word": "messaging",
+    "pronunciation": "/ˈmesɪdʒɪŋ/",
+    "file": "4",
+    "topic": "Phone language",
+    "translation": "měsíční smlouva"
+  },
+  {
+    "word": "monthly contract",
+    "pronunciation": "/ˈmʌnθli kənˈtrækt/",
+    "file": "4",
+    "topic": "Phone language",
+    "translation": "platit průběžně"
+  },
+  {
+    "word": "pay as you go",
+    "pronunciation": "/peɪ æz juː ɡəʊ/",
+    "file": "4",
+    "topic": "Phone language",
+    "translation": "telefonní síť"
+  },
+  {
+    "word": "phone network",
+    "pronunciation": "/fəʊn ˈnetwɜːk/",
+    "file": "4",
+    "topic": "Phone language",
+    "translation": "přidržet"
+  },
+  {
+    "word": "put on hold",
+    "pronunciation": "/pʊt ɒn həʊld/",
+    "file": "4",
+    "topic": "Phone language",
+    "translation": "vyzváněcí tón"
+  },
+  {
+    "word": "ringtone",
+    "pronunciation": "/ˈrɪŋtəʊn/",
+    "file": "4",
+    "topic": "Phone language",
+    "translation": "poslat textovou zprávu"
+  },
+  {
+    "word": "send a text message",
+    "pronunciation": "/send ə tekst ˈmesɪdʒ/",
+    "file": "4",
+    "topic": "Phone language",
+    "translation": "přejetí"
+  },
+  {
+    "word": "swiping",
+    "pronunciation": "/swaɪpɪŋ/",
+    "file": "4",
+    "topic": "Phone language",
+    "translation": "hlasová schránka"
+  },
+  {
+    "word": "voicemail",
+    "pronunciation": "/ˈvɔɪsmeɪl/",
+    "file": "4",
+    "topic": "Phone language",
+    "translation": "žasne"
+  },
+  {
+    "word": "amazed",
+    "pronunciation": "/əˈmeɪzd/",
+    "file": "4",
+    "topic": "ed/ing adjectives",
+    "translation": "úžasné"
+  },
+  {
+    "word": "amazing",
+    "pronunciation": "/əˈmeɪzɪŋ/",
+    "file": "4",
+    "topic": "ed/ing adjectives",
+    "translation": "nudí se"
+  },
+  {
+    "word": "bored",
+    "pronunciation": "/bɔːd/",
+    "file": "4",
+    "topic": "ed/ing adjectives",
+    "translation": "nuda "
+  },
+  {
+    "word": "boring",
+    "pronunciation": "/ˈbɔːrɪŋ/",
+    "file": "4",
+    "topic": "ed/ing adjectives",
+    "translation": "depresivní"
+  },
+  {
+    "word": "depressed",
+    "pronunciation": "/dɪˈprest/",
+    "file": "4",
+    "topic": "ed/ing adjectives",
+    "translation": "depresivní"
+  },
+  {
+    "word": "depressing",
+    "pronunciation": "/dɪˈpresɪŋ/",
+    "file": "4",
+    "topic": "ed/ing adjectives",
+    "translation": "zklamaný"
+  },
+  {
+    "word": "disappointed",
+    "pronunciation": "/ˌdɪsəˈpɔɪntɪd/",
+    "file": "4",
+    "topic": "ed/ing adjectives",
+    "translation": "zklamaný"
+  },
+  {
+    "word": "disappointing",
+    "pronunciation": "/ˌdɪsəˈpɔɪntɪŋ/",
+    "file": "4",
+    "topic": "ed/ing adjectives",
+    "translation": "trapný"
+  },
+  {
+    "word": "embarrassing",
+    "pronunciation": "/ɪmˈbærəsɪŋ/",
+    "file": "4",
+    "topic": "ed/ing adjectives",
+    "translation": "rozpačitý"
+  },
+  {
+    "word": "embarrassed",
+    "pronunciation": "/ɪmˈbærəst/",
+    "file": "4",
+    "topic": "ed/ing adjectives",
+    "translation": "nadšený"
+  },
+  {
+    "word": "excited",
+    "pronunciation": "/ɪkˈsaɪtɪd/",
+    "file": "4",
+    "topic": "ed/ing adjectives",
+    "translation": "vzrušující"
+  },
+  {
+    "word": "exciting",
+    "pronunciation": "/ɪkˈsaɪtɪŋ/",
+    "file": "4",
+    "topic": "ed/ing adjectives",
+    "translation": "vyděšený"
+  },
+  {
+    "word": "frightened",
+    "pronunciation": "/ˈfraɪt(ə)nd/",
+    "file": "4",
+    "topic": "ed/ing adjectives",
+    "translation": "děsný"
+  },
+  {
+    "word": "frightening",
+    "pronunciation": "/ˈfraɪtnɪŋ/",
+    "file": "4",
+    "topic": "ed/ing adjectives",
+    "translation": "frustrovaný"
+  },
+  {
+    "word": "frustrated",
+    "pronunciation": "/frʌˈstreɪtɪd/",
+    "file": "4",
+    "topic": "ed/ing adjectives",
+    "translation": "frustrující"
+  },
+  {
+    "word": "frustrating",
+    "pronunciation": "/frʌˈstreɪtɪŋ/",
+    "file": "4",
+    "topic": "ed/ing adjectives",
+    "translation": "unavený"
+  },
+  {
+    "word": "tired",
+    "pronunciation": "/ˈtaɪəd/",
+    "file": "4",
+    "topic": "ed/ing adjectives",
+    "translation": "únavný"
+  },
+  {
+    "word": "tiring",
+    "pronunciation": "/ˈtaɪərɪŋ/",
+    "file": "4",
+    "topic": "ed/ing adjectives",
+    "translation": "pokles v"
+  },
+  {
+    "word": "decline v",
+    "pronunciation": "/dɪˈklaɪn/",
+    "file": "4",
+    "topic": "More words and phrases in File 4",
+    "translation": "appropria te"
+  },
+  {
+    "word": "appropriate",
+    "pronunciation": "/əˈprəʊpriət/",
+    "file": "4",
+    "topic": "More words and phrases in File 4",
+    "translation": "špatné vychování"
+  },
+  {
+    "word": "bad manners",
+    "pronunciation": "/bæd ˈmænəz/",
+    "file": "4",
+    "topic": "More words and phrases in File 4",
+    "translation": "busking"
+  },
+  {
+    "word": "busking",
+    "pronunciation": "/ˈbʌskɪŋ/",
+    "file": "4",
+    "topic": "More words and phrases in File 4",
+    "translation": "dát svolení"
+  },
+  {
+    "word": "give permission",
+    "pronunciation": "/ɡɪv pəˈmɪʃn/",
+    "file": "4",
+    "topic": "More words and phrases in File 4",
+    "translation": "vysoký"
+  },
+  {
+    "word": "high",
+    "pronunciation": "/ low note /",
+    "file": "4",
+    "topic": "More words and phrases in File 4",
+    "translation": "nevhodný"
+  },
+  {
+    "word": "inappropriate",
+    "pronunciation": "/ˌɪnəˈprəʊpriət/",
+    "file": "4",
+    "topic": "More words and phrases in File 4",
+    "translation": "neohleduplný"
+  },
+  {
+    "word": "inconsiderate",
+    "pronunciation": "/ˌɪnkənˈsɪdərət/",
+    "file": "4",
+    "topic": "More words and phrases in File 4",
+    "translation": "monopolizovat"
+  },
+  {
+    "word": "monopolize",
+    "pronunciation": "/məˈnɒpəlaɪz/",
+    "file": "4",
+    "topic": "More words and phrases in File 4",
+    "translation": "hudební nástroje"
+  },
+  {
+    "word": "musical instruments",
+    "pronunciation": "/ˈmjuːzɪkl ˈɪnstrəmənts/",
+    "file": "4",
+    "topic": "More words and phrases in File 4",
+    "translation": "oktáva"
+  },
+  {
+    "word": "octave",
+    "pronunciation": "/ˈɒktɪv/",
+    "file": "4",
+    "topic": "More words and phrases in File 4",
+    "translation": "neslušný"
+  },
+  {
+    "word": "rude",
+    "pronunciation": "/ruːd/",
+    "file": "4",
+    "topic": "More words and phrases in File 4",
+    "translation": "sobecký"
+  },
+  {
+    "word": "selfish",
+    "pronunciation": "/ˈselfɪʃ/",
+    "file": "4",
+    "topic": "More words and phrases in File 4",
+    "translation": "melodie"
+  },
+  {
+    "word": "tune",
+    "pronunciation": "/tjuːn/",
+    "file": "4",
+    "topic": "More words and phrases in File 4",
+    "translation": "doba"
+  }
+]
