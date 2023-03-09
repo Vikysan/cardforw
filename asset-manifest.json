@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cardforw/static/css/main.2a60aa0a.css",
-    "main.js": "/cardforw/static/js/main.08945870.js",
+    "main.js": "/cardforw/static/js/main.2f6b5595.js",
     "index.html": "/cardforw/index.html",
     "main.2a60aa0a.css.map": "/cardforw/static/css/main.2a60aa0a.css.map",
-    "main.08945870.js.map": "/cardforw/static/js/main.08945870.js.map"
+    "main.2f6b5595.js.map": "/cardforw/static/js/main.2f6b5595.js.map"
   },
   "entrypoints": [
     "static/css/main.2a60aa0a.css",
-    "static/js/main.08945870.js"
+    "static/js/main.2f6b5595.js"
   ]
 }
