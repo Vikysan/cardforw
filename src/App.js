@@ -12,25 +12,33 @@ function App() {
   const [currentWord,setCurrentWord] = useState(data[0])
   const [english,setEnglish] = useState(true);
   const [show,setShow] = useState (false)
-  const [topic,setTopic]= useState("Compound nouns")
+  const [topic,setTopic]= useState("Food and Cooking")
+  const [file,setFile] = useState('1')
 
   const handleNewWord = ()=>{
-    const selectTopic  = data.filter(item=>item.topic===topic)
+    const selectFile = data.filter(item=>item.file===file)
+    const selectTopic  = selectFile.filter(item=>item.topic===topic)
     const randomWordNumber = Math.floor(Math.random() * selectTopic.length)
     setCurrentWord(selectTopic[randomWordNumber])
     setShow(false)
   }
 
-  const changeTopic = (topic) =>
-  setTopic(topic)
+  const changeTopic = (topic,file) =>{
+    setFile(file)
+    setTopic(topic)
+
+  } 
 
   useEffect(() => {
+    localStorage.setItem('topic', JSON.stringify(topic));
     handleNewWord()
-  },[topic]);
+  },[topic,file]);
 
   useEffect(() => {
+
     handleNewWord()
   },[]);
+
 
   return (
     <div className="App">
