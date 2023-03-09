@@ -12,8 +12,8 @@ function App() {
   const [currentWord,setCurrentWord] = useState(data[0])
   const [english,setEnglish] = useState(true);
   const [show,setShow] = useState (false)
-  const [topic,setTopic]= useState("Food and Cooking")
-  const [file,setFile] = useState('1')
+  const [topic,setTopic]= useState(JSON.parse((localStorage.getItem('topic'))).topic || "Food and Cooking")
+  const [file,setFile] = useState(JSON.parse((localStorage.getItem('topic'))).file || '1')
 
   const handleNewWord = ()=>{
     const selectFile = data.filter(item=>item.file===file)
@@ -30,16 +30,20 @@ function App() {
   } 
 
   useEffect(() => {
-    localStorage.setItem('topic', JSON.stringify(topic));
+    console.log('MENIM STORAGE')
+    localStorage.setItem('topic', JSON.stringify({'topic':topic,'file':file}));
     handleNewWord()
   },[topic,file]);
 
   useEffect(() => {
-
+    const items = JSON.parse(localStorage.getItem('topic'));
+    if (items) {
+      changeTopic(items.topic,items.file)
+    }
     handleNewWord()
   },[]);
 
-
+console.log(localStorage.getItem('topic'))
   return (
     <div className="App">
         <Select changeTopic = {changeTopic} />
