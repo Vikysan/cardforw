@@ -21,12 +21,13 @@ function App() {
     setOrder(prev=>  (prev+1< filterQuestions.length) ? prev+=1 : 0)
   }
 
-  const changeTopic = (topic,file) =>{
-    const selectFile = data.filter(item=>item.file===file)
-    const selectTopic  = selectFile.filter(item=>item.topic===topic)
+  const changeTopic = (inputTopic,inputFile) =>{
+    const selectFile = data.filter(item=>item.file===inputFile)
+    const selectTopic  = selectFile.filter(item=>item.topic===inputTopic)
     const shuffledSelect = selectTopic.sort((a, b) => 0.5 - Math.random());
-    setFile(file)
-    setTopic(topic)
+    localStorage.setItem('topic', JSON.stringify({file:inputFile,topic:inputTopic}));
+    setFile(inputFile)
+    setTopic(inputTopic)
     setOrder(0)
     setFilterQuestions(shuffledSelect)
   } 
@@ -40,9 +41,16 @@ function App() {
 
   useEffect(() => {
     handleNewWord()
+    console.log('nastavuji nove slovo ' + topic + " " + file)
   },[topic,file]);
 
-  
+  useEffect(() => {
+    const localTopic = JSON.parse(localStorage.getItem('topic'));
+    if (localTopic) {
+      console.log(localTopic)
+      changeTopic(localTopic.topic,localTopic.file)
+    }
+  }, []);
 
   return (
     <div className="App">
