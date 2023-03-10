@@ -22,11 +22,11 @@ function App() {
   }
 
   const changeTopic = (topic,file) =>{
-    setFile(file)
-    setTopic(topic)
     const selectFile = data.filter(item=>item.file===file)
     const selectTopic  = selectFile.filter(item=>item.topic===topic)
     const shuffledSelect = selectTopic.sort((a, b) => 0.5 - Math.random());
+    setFile(file)
+    setTopic(topic)
     setOrder(0)
     setFilterQuestions(shuffledSelect)
   } 
@@ -39,19 +39,10 @@ function App() {
 
 
   useEffect(() => {
-    // console.log('MENIM STORAGE')
-    // localStorage.setItem('topic', JSON.stringify({'topic':topic,'file':file}));
     handleNewWord()
   },[topic,file]);
 
-  useEffect(() => {
-    const items = JSON.parse(localStorage.getItem('topic'));
-    if (items) {
-      changeTopic(items.topic,items.file)
-    }
-    handleNewWord()
-  },[]);
-
+  
 
   return (
     <div className="App">

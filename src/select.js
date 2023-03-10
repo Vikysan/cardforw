@@ -22,10 +22,10 @@ const Select = (props) => {
   return (
     <div>
       <select name="File" id="File" onChange={onChange}>
-        {[...files].map(item=><option value={item}>{item}</option>)}
+        {[...files].map((item,index)=><option value={item} key={'f' + index}>{item}</option>)}
         </select>
         <select name="Topic" id="Topic" onChange={onChangeTopics}>
-        {[...topics].map(item=><option value={item}>{item}</option>)}
+        {[...topics].map((item,index)=><option value={item} key={'t'+ index}>{item}</option>)}
         </select>
     </div>
   )
