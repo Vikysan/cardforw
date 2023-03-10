@@ -298,14 +298,14 @@
     "pronunciation": "/æmˈbɪʃəs/",
     "file": "1",
     "topic": "Personality",
-    "translation": "ambiciózní"
+    "translation": "ctižádostivý"
   },
   {
     "word": "anxious",
     "pronunciation": "/ˈæŋkʃəs/",
     "file": "1",
     "topic": "Personality",
-    "translation": "úzkostný"
+    "translation": "úzkostlivý"
   },
   {
     "word": "bossy",
@@ -326,7 +326,7 @@
     "pronunciation": "/kəmˈpetətɪv/",
     "file": "1",
     "topic": "Personality",
-    "translation": "konkurenční"
+    "translation": "soutěživý"
   },
   {
     "word": "dishonest",
@@ -340,7 +340,7 @@
     "pronunciation": "/dɪsˈɔːɡənaɪzd/",
     "file": "1",
     "topic": "Personality",
-    "translation": "dezorganizovaný"
+    "translation": "chaotický"
   },
   {
     "word": "friendly",
@@ -361,14 +361,14 @@
     "pronunciation": "/ɪˈmædʒɪnətɪv/",
     "file": "1",
     "topic": "Personality",
-    "translation": "Nápaditý"
+    "translation": "nápaditý"
   },
   {
     "word": "immature",
     "pronunciation": "/ˌɪməˈtjʊə(r)/",
     "file": "1",
     "topic": "Personality",
-    "translation": "nezralý"
+    "translation": "nezralý-nedospělý"
   },
   {
     "word": "impatient",
@@ -410,14 +410,14 @@
     "pronunciation": "/kaɪnd/",
     "file": "1",
     "topic": "Personality",
-    "translation": "druh"
+    "translation": "laskavý"
   },
   {
     "word": "mature",
     "pronunciation": "/məˈtʃʊə(r)/",
     "file": "1",
     "topic": "Personality",
-    "translation": "zralý"
+    "translation": "vyspělí"
   },
   {
     "word": "moody",
@@ -431,7 +431,7 @@
     "pronunciation": "/ˈɔːɡənaɪzd/",
     "file": "1",
     "topic": "Personality",
-    "translation": "organizovaný"
+    "translation": "uspořadaný"
   },
   {
     "word": "patient",
@@ -445,7 +445,7 @@
     "pronunciation": "/rɪˈbeljəs/",
     "file": "1",
     "topic": "Personality",
-    "translation": "vzpurný"
+    "translation": "vzpurný - vzdorovitý"
   },
   {
     "word": "reliable",
@@ -459,7 +459,7 @@
     "pronunciation": "/rɪˈspɒnsəbl/",
     "file": "1",
     "topic": "Personality",
-    "translation": "odpovědný"
+    "translation": "zodpovědný"
   },
   {
     "word": "self-confident",
@@ -522,7 +522,7 @@
     "pronunciation": "/ˈtaɪdi/",
     "file": "1",
     "topic": "Personality",
-    "translation": "uklidit"
+    "translation": "pořádkumilovný"
   },
   {
     "word": "unambitious",
@@ -550,7 +550,7 @@
     "pronunciation": "/ʌnˈkaɪnd/",
     "file": "1",
     "topic": "Personality",
-    "translation": "nevlídný"
+    "translation": "nevlídný - zlý "
   },
   {
     "word": "unreliable",
@@ -578,7 +578,7 @@
     "pronunciation": "/ʌnˈtaɪdi/",
     "file": "1",
     "topic": "Personality",
-    "translation": "neuklizený"
+    "translation": "nepořádný"
   },
   {
     "word": "cake",
