@@ -9,29 +9,38 @@ import { useState,useEffect} from 'react';
 
 
 function App() {
+  const [filterQuestions,setFilterQuestions] = useState(data)
   const [currentWord,setCurrentWord] = useState(data[0])
   const [english,setEnglish] = useState(true);
   const [show,setShow] = useState (false)
   const [topic,setTopic]= useState("Food and Cooking")
   const [file,setFile] = useState('1')
+  const [order,setOrder] = useState(0)
 
   const handleNewWord = ()=>{
-    const selectFile = data.filter(item=>item.file===file)
-    const selectTopic  = selectFile.filter(item=>item.topic===topic)
-    const randomWordNumber = Math.floor(Math.random() * selectTopic.length)
-    setCurrentWord(selectTopic[randomWordNumber])
-    setShow(false)
+    setOrder(prev=>  (prev+1< filterQuestions.length) ? prev+=1 : 0)
   }
 
   const changeTopic = (topic,file) =>{
     setFile(file)
     setTopic(topic)
-
+    const selectFile = data.filter(item=>item.file===file)
+    const selectTopic  = selectFile.filter(item=>item.topic===topic)
+    const shuffledSelect = selectTopic.sort((a, b) => 0.5 - Math.random());
+    setOrder(0)
+    setFilterQuestions(shuffledSelect)
   } 
 
+
+  useEffect(()=>{
+    setCurrentWord(filterQuestions[order])
+    setShow(false)
+  },[order])
+
+
   useEffect(() => {
-    console.log('MENIM STORAGE')
-    localStorage.setItem('topic', JSON.stringify({'topic':topic,'file':file}));
+    // console.log('MENIM STORAGE')
+    // localStorage.setItem('topic', JSON.stringify({'topic':topic,'file':file}));
     handleNewWord()
   },[topic,file]);
 
@@ -43,7 +52,7 @@ function App() {
     handleNewWord()
   },[]);
 
-console.log(localStorage.getItem('topic'))
+
   return (
     <div className="App">
         <Select changeTopic = {changeTopic} />
